@@ -5,8 +5,8 @@ Full-stack Web Developer
 ------------------------
 
 * 🖥️  See my portfolio at [my website](http://mehrab.xyz)
-* ✉️  You can contact me at [xyz.mehrab@gmail.com](mailto:xyz.mehrab@gmail.com)
-* 🚀  I'm currently working on [Zagreus Company](http://zagreus.company)
+* ✉️  You can contact me at [mehrab@seomode.co](mailto:mehrab@seomode.co)
+* 🚀  I'm currently working on [SeoMode](http://seomode.co)
 * 🤝  I'm open to collaborating on Laravel & Tailwind projects.
 
 ### Skills
